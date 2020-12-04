@@ -1,0 +1,17 @@
+Package: kataegis
+Type: Package
+Title: Kataegis: an R package to define and visualize the kataegis regions in cancer genomes
+Version: 0.1.0
+Author: Xue Lin, Jian Li
+Maintainer: Xue Lin <xue.lin@njmu.edu.cn>
+Description: The Kataegis program provide a convenient tool to define the 
+    Kataegis region in cancer samples. The name Kataegis is a greek word meaning 
+    storm, which is a vivid metaphor for the hypermutations occur in cancer genomes.
+License: Artistic-2.0
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 3.6)
+Suggests: knitr
+VignetteBuilder: knitr
+biocViews: VariantAnnotation, DataImport, Visualization
+Imports: grDevices, graphics, stats, utils

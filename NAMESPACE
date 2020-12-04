@@ -1,0 +1,13 @@
+export(readVCF,
+       readMAF,
+       interMutDist,
+       kata,
+       kataplot
+)
+importFrom("grDevices", "dev.off", "jpeg", "png", "rainbow", "tiff")
+importFrom("graphics", "abline", "axis", "barplot", "legend", "par",
+               "plot", "points")
+importFrom("stats", "complete.cases", "mad", "ppois", "quantile",
+               "runmed")
+importFrom("utils", "read.table", "write.table")
+importFrom("graphics", "box")
