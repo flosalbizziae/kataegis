@@ -11,7 +11,7 @@ Authors@R: c(person("Xue Lin", "Package Maintainer", role = c("aut", "cre"),
 License: Artistic-2.0
 Encoding: UTF-8
 LazyData: true
-Depends: R (>= 4.0)
+Depends: R (>= 4.1)
 Suggests: knitr
 VignetteBuilder: knitr
 biocViews: VariantAnnotation, DataImport, Visualization
