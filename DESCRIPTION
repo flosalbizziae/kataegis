@@ -1,7 +1,7 @@
 Package: kataegis
 Type: Package
 Title: Kataegis: an R package to define and visualize the kataegis regions in cancer genomes
-Version: 0.99.1
+Version: 0.99.2
 Description: The Kataegis program provide a convenient tool to define the 
     Kataegis region in cancer samples. The name Kataegis is a greek word meaning 
     storm, which is a vivid metaphor for the hypermutations occur in cancer genomes.
